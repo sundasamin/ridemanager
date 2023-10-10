@@ -1,0 +1,114 @@
+background: #E92928;
+background: #FFFFFF;
+
+airdrive admin
+font-family: Montserrat;
+font-size: 9px;
+font-weight: 500;
+line-height: 11px;
+letter-spacing: 0em;
+text-align: left;
+
+jhon doe
+font-family: Montserrat;
+font-size: 16px;
+font-weight: 600;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+
+complete
+
+width: 185px
+height: 37px
+top: 36px
+left: 1248px
+
+
+New booking
+font-family: Montserrat;
+font-size: 20px;
+font-weight: 700;
+line-height: 32px;
+letter-spacing: -0.02em;
+text-align: left;
+
+
+sam
+font-family: Montserrat;
+font-size: 10px;
+font-weight: 600;
+line-height: 12px;
+letter-spacing: 0em;
+text-align: left;
+ 
+veh type
+font-family: Montserrat;
+font-size: 10px;
+font-weight: 400;
+line-height: 12px;
+letter-spacing: 0em;
+text-align: left;
+
+
+card
+width: 347px
+height: 277px
+top: 185px
+left: 296px
+border-radius: 11px
+
+semi rounded badge
+width: 87px
+height: 50px
+top: -14px
+left: -16px
+
+font-family: Montserrat;
+font-size: 10px;
+font-weight: 700;
+line-height: 10px;
+letter-spacing: -0.02em;
+text-align: center;
+
+
+search
+width: 325px
+height: 38px
+top: 38px
+left: 901px
+
+sidebar
+width: 173px
+height: 903px
+top: 127px
+left: 80px
+padding: 34px, 0px, 336px, 0px
+border-radius: 22px
+
+heading
+
+font-family: Montserrat;
+font-size: 12px;
+font-weight: 600;
+line-height: 15px;
+letter-spacing: 0em;
+text-align: left;
+
+
+logo
+font-family: Ponnala;
+font-size: 28px;
+font-weight: 400;
+line-height: 16px;
+letter-spacing: 0px;
+text-align: center;
+
+
+logo rec
+width: 124px
+height: 33px
+top: 42px
+left: 115px
+border-radius: 7px
+border: 1.5px
